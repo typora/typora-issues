@@ -12,4 +12,6 @@ Aslo, as a developer, I want to make typora prefect, so a new approach to listen
 
 # How to participant.
 
-Click `issue` from right side, and join the conversation!
+Click `issue` tab, and join the conversation!
+
+For bug reports, please provide OS version and Typora version and if possible, detailed steps to reproduce the bug.
