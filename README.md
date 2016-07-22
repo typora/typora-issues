@@ -4,20 +4,24 @@
 
 # What this Repository is for
 
-This repository has been created as an alternative way to gather users' feedback and discussions.
+This repository exists as a public forum to gather users' feedback and discussions on bugs, missing features or desired enhancements. For questions on how to use Typora, see *How to find support* below.
 
-Currently, users can use email to send bug reports or suggestions, but to increase the transparency of the beta situation, a public forum is a better option. Users should read exisiting bugs reported by other users first (since the beta is not so stable).
+While you can use email to send bug reports or suggestions, I and the Typora community prefer you use this public forum for the sake of transparency and efficiency.  
 
-Also, as a developer, I want to make typora perfect, so a new approach to listen to user's opinions is always welcome.
+As a developer I want to make Typora perfect, so I welcome all user opinions.
 
-# Find Support
+# How to report a bug, missing feature, or suggest an enhancement
 
-If you want help on using Typora, before creating an issue, you search for answers at <http://support.typora.io>, or find answers/discussions from existing issues. If you cannot find the solution to solve your problem, please feel free to submit a new issue or email us.
-
-# How to participate
-
-Click the `issue` tab, and join the conversation!
-
-For bug reports, please provide your OS version and Typora version and if possible, detailed steps to reproduce the bug.
+1. Go to the [Issues tab](https://github.com/typora/typora-issues/issues)
+2. Search the existing issues to see if someone else has already beat you to it. 
+3. If someone has, feel free to vote that issue up or add your own feedback in a comment.
+4. If no one has, click the `New Issue` button and explain. For bug reports, please provide your OS version and Typora version and if possible, detailed steps to reproduce the bug.
 
 If you have multiple issues and bug reports and they are not closely related, we recommend you to separate them in different issues.
+
+# How to find support
+
+If you want help on using Typora, first search the [Support Site](http://support.typora.io). If you don't find what you need there, please submit your question as a new issue [here, as a Support Site issue](https://github.com/typora/typora-issues/issues). That we can improve the support site as well as answer your question. 
+Feel free also to just email us.
+
+
