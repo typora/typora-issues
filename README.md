@@ -21,7 +21,7 @@ If you have multiple issues and bug reports and they are not closely related, we
 
 # How to find support
 
-If you want help on using Typora, first search the [Support Site](http://support.typora.io). If you don't find what you need there, please submit your question as a new issue [here, as a Support Site issue](https://github.com/typora/typora-issues/issues). That we can improve the support site as well as answer your question. 
+If you want help on using Typora, first search the [Support Site](http://support.typora.io). If you don't find what you need there, please submit your question as a new issue [on the Support Site issues list](https://github.com/typora/typora-issues/issues). That we can improve the support site as well as answer your question. 
 Feel free also to just email us.
 
 
