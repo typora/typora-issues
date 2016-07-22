@@ -4,7 +4,7 @@
 
 # What this Repository is for
 
-This repository exists as a public forum to gather users' feedback and discussions on bugs, missing features or desired enhancements. For questions on how to use Typora, see *How to find support* below.
+This repository exists as a public forum to gather users' feedback and discussions on bugs, missing features or desired enhancements. For questions on how to use Typora, see [How to find support](#how-to-find-support).
 
 While you can use email to send bug reports or suggestions, I and the Typora community prefer you use this public forum for the sake of transparency and efficiency.  
 
