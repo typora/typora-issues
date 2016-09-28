@@ -26,5 +26,14 @@ If you want help on using Typora, first search the [Support Site](http://support
 
 If you couldn't find what you need there, you could email us or put an issue on [Issues tab](https://github.com/typora/typora-issues/issues). Please feel free to make a pull request to <https://github.com/typora/wiki-website> if you want to help us on adding/improving the user documentation.
 
+# About custom themes
+
+See [quick start about Typora themes](support.typora.io/About-Themes/), You could also find detailed documents about how to write/share a typora theme from [here](http://theme.typora.io/doc/).
+
+# If I have some tips to share..
+
+Fork our [Support Site](http://support.typora.io).
+
+
 
 
