@@ -2,37 +2,38 @@
 
 [Typora](http://typora.io) (beta) is a minimal markdown editor, providing new ways for reading and writing markdown.
 
-# What this Repository is for
+# The Typora Issues Repo
 
-This repository exists as a public forum to gather users' feedback and discussions on bugs, missing features or desired enhancements. For questions on how to use Typora, see [How to find support](#how-to-find-support).
+The repo you are looking at is the Typora Issues Repo. It exists as a public forum to gather users' feedback and discussions on bugs, missing features or desired enhancements. For questions on how to use Typora, see [How to find support](#how-to-find-support).
 
 While you can use email to send bug reports or suggestions, I and the Typora community prefer you use this public forum for the sake of transparency and efficiency.  
 
-As a developer I want to make Typora perfect, so I welcome all user opinions.
+As a developer I want to make Typora perfect. I welcome all user ideas and opinions.
 
-# How to report a bug, missing feature, or suggest an enhancement
+## How to report a bug, missing feature, or suggest an enhancement
 
-1. Go to the [Issues tab](https://github.com/typora/typora-issues/issues)
-2. Search the existing issues to see if someone else has already beat you to it. 
-3. If someone has, feel free to vote that issue up or add your own feedback in a comment.
-4. If no one has, click the `New Issue` button and explain. For bug reports, **please provide your OS version, Typora version, and if possible, detailed steps to reproduce the bug**.
-5. If you have more than one bug reports or requirements, please seperate them in different issues if they are not closely related.
+1. Open the `Issues` tab above. Search existing issues to see if someone else has already beat you to it. 
+2. If someone has, feel free to vote that issue up or add your own feedback in a comment.
+3. If not, click the `New Issue` button and explain. 
+   -  For bug reports, **please provide your OS version, Typora version, and if possible, detailed steps to reproduce the bug**.
 
-If you have multiple issues and bug reports and they are not closely related, we recommend you to separate them in different issues.
+If you have multiple bugs or requests that are not closely related, please separate them into different issues.
 
-# How to find support
+# How to get support
 
 If you want help on using Typora, first search the [Support Site](http://support.typora.io). 
 
-If you couldn't find what you need there, you could email us or put an issue on [Issues tab](https://github.com/typora/typora-issues/issues). Please feel free to make a pull request to <https://github.com/typora/wiki-website> if you want to help us on adding/improving the user documentation.
+If you can't find what you need there, follow the steps above for reporting a bug. It is ok to use the Issues database to ask a question. You may also email us if you prefer. 
 
-# About custom themes
+If you want to help improve the Support Site, please feel free to make a pull request on the [Support Site repo](https://github.com/typora/wiki-website). 
 
-See [quick start about Typora themes](support.typora.io/About-Themes/), You could also find detailed documents about how to write/share a typora theme from [here](http://theme.typora.io/doc/).
+# How to customize a theme
 
-# If I have some tips to share..
+See [quick start about Typora themes](support.typora.io/About-Themes/), You could also find detailed documents about how to write/share a Typora theme from [here](http://theme.typora.io/doc/).
 
-Fork our [Support Site](http://support.typora.io).
+# How to share a tip
+
+If I have some tips to share, fork our [Support Site](http://support.typora.io)!
 
 
 
