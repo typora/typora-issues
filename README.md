@@ -37,6 +37,8 @@ See [quick start about Typora themes](support.typora.io/About-Themes/), You coul
 
 If I have some tips to share, fork our [Support Site](http://support.typora.io)!
 
+# Help translate Typora
 
+Fork this project -> https://github.com/typora/Typora-i18n
 
 
