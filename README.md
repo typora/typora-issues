@@ -31,7 +31,7 @@ If you want to help improve the Support Site, please feel free to make a pull re
 
 # How to customize a theme
 
-See [quick start about Typora themes](support.typora.io/About-Themes/), You could also find detailed documents about how to write/share a Typora theme from [here](http://theme.typora.io/doc/).
+See [quick start about Typora themes](http://support.typora.io/About-Themes/), You could also find detailed documents about how to write/share a Typora theme from [here](http://theme.typora.io/doc/).
 
 # How to share a tip
 
