@@ -2,7 +2,7 @@
 
 [Typora](http://typora.io) is a minimal markdown editor, providing new ways for reading and writing markdown. It is currently in beta.
 
-Typora is commercial software (not open source), but is free during beta. [Typora on GitHub](https://github.com/typora) supports collaboration between its developer, [Abner Lee](http://abnerlee.github.io), and its *user community*, providing a place to transparently report issues, collect feedback and discuss future direction. It also provides open source resources for user customization of themes.
+Typora is commercial software (not open source), but is free during beta. [Typora on GitHub](https://github.com/typora) supports collaboration between its developer, and its *user community*, providing a place to transparently report issues, collect feedback and discuss future direction. It also provides open source resources for user customization of themes.
 
 # The Typora Issues Repo
 
