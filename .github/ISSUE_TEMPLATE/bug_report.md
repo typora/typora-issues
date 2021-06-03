@@ -8,8 +8,11 @@ assignees: ''
 ---
 
 - [ ] Searched existing issues to avoid creating duplicates.
+
 - [ ] Confirmed that it can be reproduced in built-in themes without customized css.
-       If it only exists in 3rd party themes or css, you can still report it, but please attach the theme target or the css file. We may not "fix" it, if it is caused by 3rd party themes.
+
+   If it only exists in 3rd party themes or css, you can still report it, but please attach the theme target or the css file. We may not "fix" it, if it is caused by 3rd party themes or css styles that we cannot support.
+
 - [ ] Searched http://support.typora.io/
 
 ----
@@ -34,7 +37,10 @@ If applicable, add screenshots / screencasts to help explain your problem.
 Please attach or send us <hi@typora.io> the sample md file that may reproduce this.
 
 **Desktop (please complete the following information):**
- - OS: [e.g. Windows 10]
+ - OS: [e.g. Windows 10 32bit]
+
+**Typora Version**
+e.g: 0.10.11
 
 **Additional context**
 Add any other context about the problem here.
