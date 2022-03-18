@@ -1,6 +1,6 @@
 # Typora
 
-> Note: Our offical website is <typora.io> and <typoraio.cn>. All other websites without those two domain suffix is phishing site.
+> Note: Our offical website is <https://typora.io> and <https://typoraio.cn>. All other websites without those two domain suffix is phishing site.
 
 [Typora](http://typora.io) is a minimal markdown editor, providing new ways for reading and writing markdown. It is currently in beta.
 
