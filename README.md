@@ -20,6 +20,7 @@ As a developer I want to make Typora perfect. I welcome all user ideas and opini
 2. If someone has, feel free to vote that issue up or add your own feedback in a comment.
 3. If not, click the `New Issue` button and explain. 
    -  For bug reports, **please provide your OS version, Typora version, and if possible, detailed steps to reproduce the bug**.
+   -  Please make sure your issue are searchabale (provide English key words or descriptions)
 
 If you have multiple bugs or requests that are not closely related, please separate them into different issues.
 
